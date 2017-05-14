@@ -1,10 +1,10 @@
 # WeatherApp
 
 Download the source code, It requires the following libraries
-com.android.support:appcompat-v7:22.+
-com.android.volley:volley:1.0.0
-com.google.code.gson:gson:2.6.2
-com.android.support:recyclerview-v7:23.1.1
+"com.android.support:appcompat-v7:22.+"
+"com.android.volley:volley:1.0.0"
+"com.google.code.gson:gson:2.6.2"
+"com.android.support:recyclerview-v7:23.1.1"
 
 As these are added as dependecies in gradle.properties they will be loaded.
 
