@@ -6,7 +6,7 @@ com.android.volley:volley:1.0.0
 com.google.code.gson:gson:2.6.2
 com.android.support:recyclerview-v7:23.1.1
 
-As these are added as dependecy in gradle.properties they will be loaded.
+As these are added as dependecies in gradle.properties they will be loaded.
 
 Minimum version to run this App is IceCream Sandwich
 
