@@ -8,6 +8,8 @@ Download the source code, It requires the following libraries
 
 As these are added as dependecies in gradle.properties they will be loaded.
 
+Remove screen shots uploaded as part of this project.
+
 Minimum version to run this App is IceCream Sandwich
 
 Yet to be Done:
